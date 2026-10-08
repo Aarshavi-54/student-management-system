@@ -47,3 +47,7 @@ Open `index.html` in a web browser.
 ## Author
 
 Aarshavi Shah
+
+## Project Status
+
+Student Management System project is under development.
