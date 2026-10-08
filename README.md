@@ -1,5 +1,4 @@
-# Student Management System
-
+# Student Management System - Feature Branch
 ## Project Description
 
 Student Management System is a simple web-based application used to add, search, display and delete student records.
