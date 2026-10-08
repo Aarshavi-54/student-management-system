@@ -38,7 +38,7 @@ This project uses Git for:
 - Tracking changes
 - Creating commits
 - Maintaining commit history
-- Publishing the project on GitHub
+- Publishing the project on GitHub+
 
 ## How to Run
 
@@ -51,3 +51,7 @@ Aarshavi Shah
 ## Project Status
 
 Student Management System project is under development.
+
+## Search Feature
+
+Students can be searched by Student ID or Name.
